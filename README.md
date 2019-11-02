@@ -1,1 +1,1 @@
-# StarWars App 1.0
+# StarWars App
